@@ -1,0 +1,11 @@
+# Training / notebooks (Azure ML compute instance)
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+azure-ai-ml
+azure-identity
+requests
+# Web app
+streamlit
